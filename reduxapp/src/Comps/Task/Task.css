@@ -1,0 +1,7 @@
+.Done {
+  color: blue;
+  text-decoration-line: line-through;
+}
+.btn {
+  cursor: pointer;
+}

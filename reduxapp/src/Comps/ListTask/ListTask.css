@@ -1,0 +1,50 @@
+.filter {
+  width: 800px;
+  height: 40px;
+  margin: 20px 20px;
+  cursor: pointer;
+}
+.Notasks {
+  color: green;
+  font-size: 20px;
+  font-weight: bold;
+}
+.currenttasks {
+  border: 1px solid rgba(85, 85, 85, 0.335);
+  border-radius: 10px;
+  width: 1250px;
+  margin: 20px auto;
+}
+.currenttext {
+  background-color: rgba(167, 166, 166, 0.527);
+  border: 1px solid rgba(85, 85, 85, 0.335);
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  height: 40px;
+  padding-top: 5px;
+  font-weight: bold;
+  font-size: large;
+}
+.List {
+  margin-bottom: 20px;
+}
+.filterselecct {
+  border: 1px solid rgba(85, 85, 85, 0.335);
+  border-radius: 10px;
+  width: 1250px;
+  margin: 20px auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.FilterTasks {
+  padding: 10px 60px;
+  border: 1px solid rgba(63, 63, 63, 0.548);
+  height: 80px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  padding-top: 25px;
+  background-color: rgba(167, 166, 166, 0.527);
+  font-weight: bold;
+  font-size: large;
+}

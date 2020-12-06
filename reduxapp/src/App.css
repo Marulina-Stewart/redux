@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  width: 100%;
+  margin: 0px;
+}
+.title {
+  font-weight: serif;
+  background-color: rgba(0, 17, 255, 0.445);
+  margin: 0px auto;
+  color: white;
+  height: 60px;
+  padding-top: 5px;
+}
